@@ -1,0 +1,23 @@
+{
+  "name": "responsive-web-design-certification-300-hours",
+  "version": "1.0.0",
+  "description": "Code Camp 300 hour frontend work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanviredu/Responsive-Web-Design-Certification-300-hours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanviredu/Responsive-Web-Design-Certification-300-hours/issues"
+  },
+  "homepage": "https://github.com/tanviredu/Responsive-Web-Design-Certification-300-hours#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
